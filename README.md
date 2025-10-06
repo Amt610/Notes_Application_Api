@@ -71,7 +71,8 @@ Make sure to create the database notes_db in MySQL before running the applicatio
 
 🚀 Running the Project
 
-Clone the repository: https://github.com/Amt610/Notes_Application_Api.git
+Clone the repository:
+       https://github.com/Amt610/Notes_Application_Api.git
 
 Open in your favorite IDE (IntelliJ IDEA, Eclipse, VS Code).
 
